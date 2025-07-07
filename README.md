@@ -2,4 +2,5 @@
 ppm file converter written in Python 3
 
 ## References
-- [jaames/flipnote-player](https://github.com/jaames/flipnote-player)
+- [flipnote.js](https://github.com/jaames/flipnote.js)
+- [Flipnote Files/PPM](https://www.dsibrew.org/wiki/Flipnote_Files/PPM)
